@@ -1,0 +1,4 @@
+PolicyRandom
+  Depth 20
+20.0 198.0 7 6.2 elapsed 58.67 seconds
+  wins: 20.0%, reward: 198.0, max_states max: 7, max_states max: 6.2, elapsed 58.67 seconds

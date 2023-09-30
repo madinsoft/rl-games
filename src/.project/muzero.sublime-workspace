@@ -1,0 +1,1439 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/patrick/projects/IA/muzero/muzero-general/muzero.py",
+			"settings":
+			{
+				"buffer_size": 24840,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 289 files for \"mkvir\"\n\n/home/patrick/Documents/notes/pole-star/notes_jupyter.txt:\n   17      > jupyter kernelspec remove $name\n   18  \n   19: mkvirtualenv bayes\n   20  pip install ipython ipykernel\n   21  python -m pip install --upgrade pip\n\n/home/patrick/Documents/notes/prog/notes_python.txt:\n   32  python -m ipykernel install --user  --name tensoflow1\n   33  \n   34: mkvirtualenv \n   35  rmvirtualenv\n   36  workon\n\n2 matches across 2 files\n\n\nSearching 289 files for \"mkvirtualenv\"\n\n/home/patrick/Documents/notes/pole-star/notes_jupyter.txt:\n   17      > jupyter kernelspec remove $name\n   18  \n   19: mkvirtualenv bayes\n   20  pip install ipython ipykernel\n   21  python -m pip install --upgrade pip\n\n/home/patrick/Documents/notes/prog/notes_python.txt:\n   32  python -m ipykernel install --user  --name tensoflow1\n   33  \n   34: mkvirtualenv \n   35  rmvirtualenv\n   36  workon\n\n2 matches across 2 files\n",
+			"settings":
+			{
+				"buffer_size": 919,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "/home/patrick/Documents/notes/prog/notes_python.txt",
+			"settings":
+			{
+				"buffer_size": 27400,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/patrick/.bashrc",
+			"settings":
+			{
+				"buffer_size": 5440,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/patrick/Documents/notes/pole-star/notes_jupyter.txt",
+			"settings":
+			{
+				"buffer_size": 860,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pre",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"pret",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 158.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/patrick/projects/IA/muzero",
+		"/home/patrick/projects/IA/muzero/muzero-general",
+		"/home/patrick/projects/IA/muzero/simple-muzero",
+		"/home/patrick/Documents/notes",
+		"/home/patrick/Documents/notes/esims"
+	],
+	"file_history":
+	[
+		"/home/patrick/projects/IA/muzero/muzero2/scripts/notebooks/plot_results.ipynb",
+		"/home/patrick/projects/IA/muzero/muzero-general/README.md",
+		"/home/patrick/projects/IA/muzero/muzero/README.md",
+		"/home/patrick/projects/IA/muzero/muzero/muzero.py",
+		"/home/patrick/projects/IA/muzero/pseudocode.py",
+		"/home/patrick/projects/IA/muzero/simple-muzero/PlayGame.py",
+		"/home/patrick/projects/IA/muzero/open_spiel/README.md",
+		"/home/patrick/Documents/notes/esims/notes_esims.txt",
+		"/home/patrick/projects/IA/muzero/simple-muzero/tictactoe/TicTacToeGame.py",
+		"/home/patrick/projects/IA/muzero/simple-muzero/tictactoe/TicTacToeLogic.py",
+		"/home/patrick/projects/IA/muzero/simple-muzero/Game.py",
+		"/home/patrick/projects/IA/muzero/simple-muzero/MCTS.py",
+		"/home/patrick/projects/IA/muzero/simple-muzero/Network.py",
+		"/home/patrick/projects/IA/muzero/simple-muzero/pseudocode.py",
+		"/home/patrick/projects/IA/muzero/simple-muzero/utils.py",
+		"/home/patrick/projects/IA/my-2048/src/utils.py",
+		"/home/patrick/projects/IA/my-2048/scripts/2x2/try_2x2_resol.py",
+		"/home/patrick/.virtualenvs/keras/lib/python3.8/site-packages/tensorflow/python/saved_model/load.py",
+		"/home/patrick/projects/IA/my-2048/src/models/base_model.py",
+		"/home/patrick/projects/IA/my-2048/src/models/mini_model_one.py",
+		"/home/patrick/Documents/notes/tmp.py",
+		"/home/patrick/projects/IA/my-2048/scripts/deep/try_models7.py",
+		"/home/patrick/projects/IA/my-2048/scripts/deep/try_models6.py",
+		"/home/patrick/Documents/notes/afaire.txt",
+		"/home/patrick/Documents/notes/IA_OPTI/IA.txt",
+		"/home/patrick/Documents/notes/tmp.txt",
+		"/home/patrick/projects/IA/my-2048/src/models/xgboost_model_one.py",
+		"/home/patrick/projects/IA/my-2048/scripts/xgboost/try_models_xgboost_53.py",
+		"/home/patrick/projects/IA/my-2048/scripts/xgboost/try_models_xgboost_51.py",
+		"/home/patrick/projects/IA/my-2048/src/policies/policy_ql.py",
+		"/home/patrick/projects/IA/my-2048/src/models/xgboost_model.py",
+		"/home/patrick/projects/IA/my-2048/scripts/3x3/try_models_3x3.py",
+		"/home/patrick/.virtualenvs/keras/lib/python3.8/site-packages/xgboost/sklearn.py",
+		"/home/patrick/projects/IA/my-2048/src/models/cbs.py",
+		"/home/patrick/projects/IA/my-2048/src/models/tcbs.py",
+		"/home/patrick/projects/IA/my-2048/scripts/xgboost/try_models_xgboost2.py",
+		"/home/patrick/projects/IA/my-2048/scripts/3x3/try_models_3x3_2.py",
+		"/home/patrick/projects/IA/my-2048/notes/deep_learning.txt",
+		"/home/patrick/projects/IA/my-2048/scripts/models/try_models_2x2_51.py",
+		"/home/patrick/projects/IA/my-2048/.project/m2048.sublime-project",
+		"/home/patrick/projects/IA/my-2048/scripts/xgboost/try_models_xgboost.py",
+		"/home/patrick/projects/IA/my-2048/src/models/transformers.py",
+		"/home/patrick/projects/IA/my-2048/scripts/3x3/try_models_2x2.py",
+		"/home/patrick/projects/IA/my-2048/scripts/ql/try_ql_2048_2x2_3.py",
+		"/home/patrick/projects/IA/my-2048/src/envs/gy2048/env.py",
+		"/home/patrick/projects/IA/my-2048/src/policies/policy_close_best.py",
+		"/home/patrick/projects/IA/my-2048/src/policies/abstract_policy.py",
+		"/home/patrick/projects/IA/my-2048/scripts/3x3/try_best3x3.py",
+		"/home/patrick/projects/IA/my-2048/scripts/models/try_models_2x2_52.py",
+		"/home/patrick/projects/IA/my-2048/src/best_close.py",
+		"/home/patrick/projects/IA/my-2048/src/envs/gy2048/env_save.py",
+		"/home/patrick/projects/IA/my-2048/src/policies/policy_random.py",
+		"/home/patrick/projects/IA/my-2048/scripts/models/try_models_2x2_2.py",
+		"/home/patrick/projects/IA/my-2048/scripts/models/try_models_2x2_3.py",
+		"/home/patrick/projects/IA/my-2048/scripts/models/try_models_2x2_4.py",
+		"/home/patrick/projects/IA/my-2048/scripts/models/try_models_2x2_5.py",
+		"/home/patrick/projects/IA/my-2048/scripts/models/try_models_2x2_6.py",
+		"/home/patrick/projects/IA/my-2048/scripts/models/try_models_2x2_7.py",
+		"/home/patrick/projects/IA/my-2048/src/best_2x2.py",
+		"/home/patrick/projects/IA/my-2048/src/models/basic_model.py",
+		"/home/patrick/projects/IA/my-2048/scripts/ql/try_ql_2048_2x2_2.py",
+		"/home/patrick/projects/IA/my-2048/scripts/ql/try_ql_2048_2x2.py",
+		"/home/patrick/projects/IA/my-2048/scripts/models/try_models_2x2.py",
+		"/home/patrick/projects/IA/my-2048/.gitignore",
+		"/home/patrick/projects/IA/my-2048/scripts/mini/try_mini_net2.py",
+		"/home/patrick/projects/IA/my-2048/scripts/deep/check_coverage_deep_q_learning.py",
+		"/home/patrick/projects/IA/my-2048/scripts/deep/deep_q_learning_2048.py",
+		"/home/patrick/projects/IA/my-2048/scripts/deep/deep_q_learning_2048_2.py",
+		"/home/patrick/projects/IA/my-2048/scripts/deep/deep_q_learning_2048_3.py",
+		"/home/patrick/projects/IA/my-2048/scripts/deep/deep_q_learning_mini.py",
+		"/home/patrick/projects/IA/my-2048/scripts/deep/deep_q_learning_mini2.py",
+		"/home/patrick/projects/IA/my-2048/scripts/deep/deep_q_learning_mini3.py",
+		"/home/patrick/projects/IA/my-2048/scripts/deep/deep_q_learning_mini4.py",
+		"/home/patrick/.virtualenvs/keras/lib/python3.8/site-packages/gym/envs/registration.py",
+		"/home/patrick/projects/IA/my-2048/src/envs/gy2048/__init__.py",
+		"/home/patrick/projects/IA/my-2048/scripts/models/try_models.py",
+		"/home/patrick/projects/IA/my-2048/src/envs/gy2048/best_2x2.py",
+		"/home/patrick/projects/IA/my-2048/scripts/2x2/try_2x2_input.py",
+		"/home/patrick/projects/IA/my-2048/scripts/ql/try_ql4.py",
+		"/home/patrick/projects/IA/my-2048/src/envs/gymini/env.py",
+		"/home/patrick/projects/IA/my-2048/scripts/deep/try_models11.py",
+		"/home/patrick/projects/IA/my-2048/src/mocks.py",
+		"/home/patrick/projects/IA/my-2048/.env",
+		"/home/patrick/projects/IA/my-2048/scripts/deep/try_models9.py",
+		"/home/patrick/projects/IA/my-2048/scripts/deep/try_models8.py",
+		"/home/patrick/projects/IA/my-2048/scripts/deep/try_models10.py",
+		"/home/patrick/.virtualenvs/keras/lib/python3.8/site-packages/tensorflow/python/autograph/converters/lists.py",
+		"/home/patrick/projects/IA/my-2048/src/mocks..py",
+		"/home/patrick/projects/IA/save-2048/src/utils.py",
+		"/home/patrick/projects/IA/my-2048/src/players/abstract_player.py",
+		"/home/patrick/Documents/notes/IA_OPTI/notes_IA.txt",
+		"/home/patrick/projects/tools/sdi_vizu.py",
+		"/home/patrick/projects/IA/my-2048/scripts/ql/try_ql7.py",
+		"/home/patrick/.virtualenvs/keras/lib/python3.8/site-packages/tools/sdi_vizu.py",
+		"/home/patrick/.virtualenvs/keras/lib/python3.8/site-packages/tensorflow/python/ops/math_ops.py",
+		"/home/patrick/projects/IA/my-2048/src/models/deep_model.py",
+		"/home/patrick/projects/IA/my-2048/data/q_2x2_3.json",
+		"/home/patrick/projects/IA/my-2048/data/policy_states_2x2.json",
+		"/home/patrick/projects/IA/my-2048/src/players/player_mini.py",
+		"/home/patrick/projects/IA/my-2048/src/policies/policy_best.py",
+		"/home/patrick/projects/IA/my-2048/scripts/deep/try_models3.py",
+		"/home/patrick/tmp/test-quentin-site/graph.json",
+		"/home/patrick/projects/tools/esplot.py",
+		"/home/patrick/.virtualenvs/keras/lib/python3.8/site-packages/tensorflow/python/distribute/mirrored_run.py",
+		"/home/patrick/projects/IA/my-2048/scripts/deep/actor_critic.py",
+		"/home/patrick/projects/IA/my-2048/scripts/try_ql_2048_2x2.py",
+		"/home/patrick/projects/IA/my-2048/src/gy2048/env.py",
+		"/home/patrick/projects/IA/my-2048/scripts/try_xgboost.py",
+		"/home/patrick/projects/IA/my-2048/scripts/try_models_xgboost.py",
+		"/home/patrick/projects/IA/my-2048/scripts/myq_2x2.json",
+		"/home/patrick/projects/IA/my-2048/scripts/try_ql4.py",
+		"/home/patrick/projects/IA/my-2048/scripts/deep_q_learning_2048.py",
+		"/home/patrick/projects/IA/my-2048/scripts/try_models6.py",
+		"/home/patrick/projects/IA/my-2048/scripts/try_2x2_resol.py",
+		"/home/patrick/Documents/notes/tmp2.txt",
+		"/home/patrick/projects/IA/my-2048/ocr.py",
+		"/home/patrick/projects/IA/my-2048/scripts/try_models5.py",
+		"/home/patrick/.virtualenvs/keras/lib/python3.8/site-packages/tensorflow/python/keras/optimizer_v2/optimizer_v2.py",
+		"/home/patrick/projects/IA/my-2048/scripts/log",
+		"/home/patrick/.virtualenvs/keras/lib/python3.8/site-packages/tensorflow/python/keras/callbacks.py",
+		"/home/patrick/projects/IA/my-2048/scripts/try_models3.py",
+		"/home/patrick/.virtualenvs/keras/lib/python3.8/site-packages/tensorflow/python/keras/engine/training.py",
+		"/home/patrick/projects/IA/my-2048/scripts/try_mini_net2.py",
+		"/home/patrick/projects/IA/my-2048/scripts/deep_q_learning_mini3.py",
+		"/home/patrick/.virtualenvs/keras/lib/python3.8/site-packages/tensorflow/python/ops/gen_math_ops.py",
+		"/home/patrick/.virtualenvs/keras/lib/python3.8/site-packages/tensorflow/python/framework/ops.py",
+		"/home/patrick/.virtualenvs/keras/lib/python3.8/site-packages/tensorflow/python/keras/engine/data_adapter.py",
+		"/home/patrick/projects/tools/box.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 132.0,
+		"where_history":
+		[
+			"*.txt",
+			"*.py"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"mkvirtualenv",
+			"mkvir",
+			"__name__"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/patrick/projects/IA/muzero/muzero-general/muzero.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 24840,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								20685,
+								20685
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9761.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 919,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										152,
+										157
+									],
+									[
+										381,
+										386
+									],
+									[
+										616,
+										628
+									],
+									[
+										845,
+										857
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								743,
+								743
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 2,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 324.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/patrick/Documents/notes/prog/notes_python.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 27400,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								341,
+								341
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 108.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/patrick/.bashrc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5440,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5440,
+								5440
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Bash.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2277.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/patrick/Documents/notes/pole-star/notes_jupyter.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 860,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								462,
+								462
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 127.0
+	},
+	"output.exec":
+	{
+		"height": 181.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.project_environment_log":
+	{
+		"height": 121.0
+	},
+	"pinned_build_system": "Packages/User/keras.sublime-build",
+	"project": "muzero.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"uti",
+				"my-2048/src/utils.py"
+			],
+			[
+				"load",
+				"tensorflow/python/saved_model/load.py"
+			],
+			[
+				"tmp",
+				"notes/tmp.txt"
+			],
+			[
+				"ia.txt",
+				"notes/IA_OPTI/IA.txt"
+			],
+			[
+				"afa",
+				"notes/afaire.txt"
+			],
+			[
+				"tran",
+				"my-2048/src/models/transformers.py"
+			],
+			[
+				"ut",
+				"my-2048/src/utils.py"
+			],
+			[
+				"cbs",
+				"my-2048/src/models/cbs.py"
+			],
+			[
+				"51",
+				"my-2048/scripts/models/try_models_2x2_51.py"
+			],
+			[
+				"resol",
+				"my-2048/scripts/2x2/try_2x2_resol.py"
+			],
+			[
+				"tmptxt",
+				"notes/tmp.txt"
+			],
+			[
+				"resol.py",
+				"my-2048/scripts/2x2/try_2x2_resol.py"
+			],
+			[
+				"t",
+				"notes/tmp.txt"
+			],
+			[
+				"polic",
+				"my-2048/src/policies/policy_random.py"
+			],
+			[
+				"",
+				"my-2048/scripts/models/try_models_2x2_6.py"
+			],
+			[
+				".gi",
+				"my-2048/.gitignore"
+			],
+			[
+				"11py",
+				"my-2048/scripts/deep/try_models11.py"
+			],
+			[
+				"bas_mo",
+				"my-2048/src/models/base_model.py"
+			],
+			[
+				"tmp.",
+				"notes/tmp.txt"
+			],
+			[
+				"noia",
+				"notes/IA_OPTI/notes_IA.txt"
+			],
+			[
+				"tmppy",
+				"notes/tmp.py"
+			],
+			[
+				"ia",
+				"notes/IA_OPTI/IA.txt"
+			],
+			[
+				"ia.",
+				"notes/IA_OPTI/IA.txt"
+			],
+			[
+				"noteia",
+				"notes/IA_OPTI/notes_IA.txt"
+			],
+			[
+				"log",
+				"my-2048/scripts/log"
+			],
+			[
+				"box",
+				"tools/box.py"
+			],
+			[
+				"tmpx",
+				"notes/tmp.txt"
+			],
+			[
+				"sdi",
+				"tools/sdi.py"
+			],
+			[
+				"python",
+				"notes/prog/notes_python.txt"
+			],
+			[
+				"eva",
+				"my-2048/src/gymini/evaluate_mini.py"
+			],
+			[
+				"dee",
+				"my-2048/notes/deep_learning.txt"
+			],
+			[
+				"sgp",
+				"notes/pole-star/sgp.txt"
+			],
+			[
+				"keras",
+				"notes/prog/notes_tensorflow_keras.txt"
+			],
+			[
+				"polql",
+				"my-2048/src/policies/policy_ql.py"
+			],
+			[
+				"tryql",
+				"my-2048/try_ql.py"
+			],
+			[
+				"try",
+				"my-2048/try_ql2.py"
+			],
+			[
+				"pollq",
+				"my-2048/src/policies/policy_ql.py"
+			],
+			[
+				"try_ql2",
+				"my-2048/try_ql2.py"
+			],
+			[
+				"tryn",
+				"my-2048/try_mini_net.py"
+			],
+			[
+				"pl_ql",
+				"my-2048/src/policies/policy_ql.py"
+			],
+			[
+				"esvi",
+				"tools/esvizu.py"
+			],
+			[
+				"trymininet",
+				"my-2048/try_mini_net.py"
+			],
+			[
+				"poli",
+				"my-2048/src/policies/policy_random.py"
+			],
+			[
+				"covid",
+				"notes/pole-star/covid.txt"
+			],
+			[
+				"try_",
+				"my-2048/try_2048.py"
+			],
+			[
+				"tmp.py",
+				"notes/tmp.py"
+			],
+			[
+				"try.py",
+				"my-2048/try_2048.py"
+			],
+			[
+				"play",
+				"my-2048/src/player/player2048.py"
+			],
+			[
+				"sgp.txt",
+				"notes/pole-star/sgp.txt"
+			],
+			[
+				"gym_2048",
+				"my-2048/src/gym_2048/env.py"
+			],
+			[
+				"a-",
+				"notes/pole-star/a-faire.txt"
+			],
+			[
+				"mcts.txt",
+				"notes/IA_OPTI/mcts.txt"
+			],
+			[
+				"noteslin",
+				"notes/prog/notes_linux.txt"
+			],
+			[
+				"af",
+				"notes/pole-star/a-faire.txt"
+			],
+			[
+				"perf",
+				"notes/pole-star/perf_covid.txt"
+			],
+			[
+				"covi",
+				"notes/pole-star/covid.txt"
+			],
+			[
+				"notepyt",
+				"notes/prog/notes_python.txt"
+			],
+			[
+				"notes",
+				"notes/esims/notes_esims.txt"
+			],
+			[
+				"notinfl",
+				"notes/misnet/notes_influx.txt"
+			],
+			[
+				"note",
+				"notes/esims/notes_esims.txt"
+			],
+			[
+				"noin",
+				"notes/misnet/notes_influx.txt"
+			],
+			[
+				"notinflux",
+				"notes/misnet/notes_influx.txt"
+			],
+			[
+				"nop",
+				"notes/prog/notes_python.txt"
+			],
+			[
+				"noe",
+				"notes/esims/notes_esims.txt"
+			],
+			[
+				"notpyth",
+				"notes/prog/notes_python.txt"
+			],
+			[
+				"nopyth",
+				"notes/prog/notes_python.txt"
+			],
+			[
+				"notelin",
+				"notes/prog/notes_linux.txt"
+			],
+			[
+				"notepython",
+				"notes/prog/notes_python.txt"
+			],
+			[
+				"_paj.py",
+				"nao_gizmo/lib/analysis/generate_deployment_plan_paj.py"
+			],
+			[
+				"task",
+				"nao_gizmo/apps/workerapp/tasks.py"
+			],
+			[
+				"route",
+				"notes/routes2.txt"
+			],
+			[
+				"geoframe",
+				"nao_gizmo/lib/pyutils/geometry/geoframe.py"
+			],
+			[
+				"nao",
+				"nao_gizmo/lib/pyutils/geometry/nao_graph.py"
+			],
+			[
+				"multipoint",
+				"shapely/geometry/multipoint.py"
+			],
+			[
+				"proj",
+				"nao_gizmo/lib/naologprocessor/project.py"
+			],
+			[
+				"trygeo",
+				"nao_gizmo/scripts/auto_deployment/try_geofences.py"
+			],
+			[
+				"uplo",
+				"nao_gizmo/lib/naocloud/uploader.py"
+			],
+			[
+				".env",
+				"naocloud/dev/.env"
+			],
+			[
+				"route.txt",
+				"notes/routes.txt"
+			],
+			[
+				"tas",
+				"nao_gizmo/apps/workerapp/tasks.py"
+			],
+			[
+				"a-f",
+				"notes/pole-star/a-faire.txt"
+			],
+			[
+				"linu",
+				"notes/linux/linux.txt"
+			],
+			[
+				"notepyth",
+				"notes/prog/notes_python.txt"
+			],
+			[
+				"tmp.txt",
+				"notes/tmp.txt"
+			],
+			[
+				"routes",
+				"notes/routes2.txt"
+			],
+			[
+				".lo",
+				"nao_gizmo/.localrc"
+			],
+			[
+				"beaprocessor.rb",
+				"naocloud/app/processings/beacons_deployment_processor.rb"
+			],
+			[
+				"sitecon",
+				"naocloud/app/controllers/sites_controller.rb"
+			],
+			[
+				"route.rb",
+				"naocloud/config/routes.rb"
+			],
+			[
+				"beacon.txt",
+				"notes/pole-star/beacons.txt"
+			],
+			[
+				"BeaconsDeploymentProcessor",
+				"naocloud/app/processings/beacons_deployment_processor.rb"
+			],
+			[
+				"proje",
+				"nao_gizmo/lib/naologprocessor/project.py"
+			],
+			[
+				"enu",
+				"nao_gizmo/lib/pyutils/geometry/enu.py"
+			],
+			[
+				"gene",
+				"nao_gizmo/lib/analysis/generate_deployment_plan.py"
+			],
+			[
+				"merge_o",
+				"nao_gizmo/lib/analysis/merge_overlapping_indoor_areas.py"
+			],
+			[
+				"naoclouinit",
+				"nao_gizmo/lib/naocloud/__init__.py"
+			],
+			[
+				"tasks",
+				"nao_gizmo/apps/workerapp/tasks.py"
+			],
+			[
+				"covpro",
+				"naocloud/app/processings/covid_score_processor.rb"
+			],
+			[
+				"calcu",
+				"nao_gizmo/apps/workerapp/task_lib/covid/calculate_covid_score.py"
+			],
+			[
+				"pole",
+				"notes/pole-star/pole.txt"
+			],
+			[
+				".l",
+				"nao_gizmo/.localrc"
+			],
+			[
+				"cov",
+				"notes/pole-star/covid.txt"
+			],
+			[
+				"calc",
+				"nao_gizmo/apps/workerapp/task_lib/covid/calculate_covid_score.py"
+			],
+			[
+				"comp",
+				"nao_gizmo/lib/naologprocessor/compute_isds.py"
+			],
+			[
+				"test_co",
+				"nao_gizmo/tests/test_compute_isds.py"
+			],
+			[
+				"nao_trackable",
+				"naocloud/app/models/nao_trackable.rb"
+			],
+			[
+				"pol",
+				"notes/jobs/pole_star.txt"
+			],
+			[
+				"deploymeyml",
+				"naocloud/config/locales/views/deployments/en.yml"
+			],
+			[
+				".",
+				"nao_gizmo/.localrc"
+			],
+			[
+				"confinder",
+				"nao_gizmo/apps/workerapp/task_lib/covid/contacts_finder.py"
+			],
+			[
+				"contafinder",
+				"nao_gizmo/apps/workerapp/task_lib/covid/contacts_finder.py"
+			],
+			[
+				"calcuacovi",
+				"nao_gizmo/apps/workerapp/task_lib/covid/calculate_covid_score.py"
+			],
+			[
+				".loc",
+				"nao_gizmo/.localrc"
+			],
+			[
+				"contactfind",
+				"nao_gizmo/apps/workerapp/task_lib/covid/contacts_finder.py"
+			],
+			[
+				"routes.rb",
+				"naocloud/config/routes.rb"
+			],
+			[
+				"computer",
+				"nao_gizmo/apps/workerapp/task_lib/covid/isds_computer.py"
+			],
+			[
+				"conta",
+				"nao_gizmo/apps/workerapp/task_lib/covid/contacts_finder.py"
+			],
+			[
+				"com",
+				"nao_gizmo/lib/naologprocessor/compute_isds.py"
+			],
+			[
+				"contafin",
+				"nao_gizmo/apps/workerapp/task_lib/covid/contacts_finder.py"
+			],
+			[
+				"nao_app",
+				"naocloud/app/models/naomicro/nao_application.rb"
+			],
+			[
+				"site",
+				"naocloud/app/models/site.rb"
+			],
+			[
+				"influx",
+				"notes/misnet/influx.txt"
+			],
+			[
+				"pan",
+				"notes/prog/notes_pandas.txt"
+			],
+			[
+				"tmp2",
+				"nao_gizmo/scripts/covid_score/tmp2.py"
+			],
+			[
+				"pro",
+				"nao_gizmo/lib/naologprocessor/project.py"
+			],
+			[
+				"sch",
+				"naocloud/db/schema.rb"
+			],
+			[
+				"region",
+				"naocloud/app/models/naomicro/region.rb"
+			],
+			[
+				"shema",
+				"naocloud/db/schema.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/projects/pole-star/pole-star.sublime-project"
+			],
+			[
+				"po",
+				"~/projects/pole-star/pole-star.sublime-project"
+			],
+			[
+				"p",
+				"~/projects/pole-star/pole-star.sublime-project"
+			],
+			[
+				"sno",
+				"~/projects/IA/snow-cry/.project/snow.sublime-project"
+			],
+			[
+				"snow",
+				"~/projects/IA/snow-cry/.project/snow.sublime-project"
+			],
+			[
+				"sn",
+				"~/projects/IA/snow-cry/.project/snow.sublime-project"
+			],
+			[
+				"mc",
+				"~/projects/IA/RL/en_cours/2048/gym_2048/src/.project/mcts.sublime-project"
+			],
+			[
+				"pol",
+				"~/projects/pole-star/pole-star.sublime-project"
+			],
+			[
+				"pole",
+				"~/projects/pole-star/pole-star.sublime-project"
+			],
+			[
+				"o",
+				"~/projects/pole-star/pole-star.sublime-project"
+			],
+			[
+				"ol",
+				"~/projects/pole-star/pole-star.sublime-project"
+			],
+			[
+				"sb",
+				"~/projects/IA/snow-cry/.project/snow.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "save",
+		"selected_items":
+		[
+			[
+				"save",
+				"save"
+			],
+			[
+				"load",
+				"load"
+			],
+			[
+				"roll",
+				"rollout"
+			],
+			[
+				"run",
+				"run"
+			],
+			[
+				"eval",
+				"evaluate"
+			],
+			[
+				"rol",
+				"rollout"
+			],
+			[
+				"rollout",
+				"rollout"
+			],
+			[
+				"draw",
+				"draw_list"
+			],
+			[
+				"sdi",
+				"Sdi"
+			],
+			[
+				"BeaconsDeploymentProcessor",
+				"BeaconsDeploymentProcessor"
+			],
+			[
+				"deployment_plan",
+				"deployment_plan"
+			],
+			[
+				"proj",
+				"Project"
+			],
+			[
+				"get_deploy",
+				"get_deployment_plan"
+			],
+			[
+				"get_graph",
+				"get_graph"
+			],
+			[
+				"getgraph",
+				"getGraph"
+			],
+			[
+				"BeaconDeploymentPlanImporter",
+				"BeaconDeploymentPlanImporter"
+			],
+			[
+				"phys",
+				"PhysicalBeacon"
+			],
+			[
+				" BeaconDeploymentPlanImporter",
+				"BeaconDeploymentPlanImporter"
+			],
+			[
+				"install",
+				"install_bluespots"
+			],
+			[
+				"operations",
+				"operations"
+			],
+			[
+				"upload_beacons_deployment_plan",
+				"upload_beacons_deployment_plan"
+			],
+			[
+				"install_beacons",
+				"install_beacons"
+			],
+			[
+				"plot_s",
+				"plot_shapely"
+			],
+			[
+				"plot_",
+				"plot_shapely"
+			],
+			[
+				"drawpol",
+				"drawPolygon"
+			],
+			[
+				"CovidScoreProcessor",
+				"CovidScoreProcessor"
+			],
+			[
+				"infectionconfi",
+				"InfectionConfiguration"
+			],
+			[
+				"get_zone",
+				"get_zone"
+			],
+			[
+				"project",
+				"Project"
+			],
+			[
+				"infection_configurations",
+				"infection_configuration_params"
+			],
+			[
+				"change",
+				"change_owner"
+			],
+			[
+				"database",
+				"database_name"
+			],
+			[
+				"applicationuser",
+				"ApplicationUser"
+			],
+			[
+				"define_mutual_contact_from_unfrequent_position",
+				"define_mutual_contact_from_unfrequent_position"
+			],
+			[
+				"enu",
+				"ENU"
+			],
+			[
+				"zones",
+				"zones"
+			],
+			[
+				"change_owner",
+				"change_owner"
+			],
+			[
+				"launch",
+				"launch"
+			],
+			[
+				"DrawIndoorAreasProcessor",
+				"DrawIndoorAreasProcessor"
+			],
+			[
+				"generate_beacons_from_graph",
+				"generate_beacons_from_graph"
+			],
+			[
+				"drawindorr",
+				"draw_indoor_areas"
+			],
+			[
+				"auto_beacons_deployment_process",
+				"auto_beacons_deployment_process"
+			],
+			[
+				"set_en",
+				"set_env"
+			],
+			[
+				"draw_in",
+				"draw_indoor_areas"
+			],
+			[
+				"plot_shapely",
+				"plot_shapely"
+			],
+			[
+				"plot",
+				"PlotShapely"
+			],
+			[
+				"proje",
+				"Project"
+			],
+			[
+				"set_env",
+				"set_env"
+			],
+			[
+				"update_multiple",
+				"update_multiple"
+			],
+			[
+				"multiple",
+				"update_multiple"
+			],
+			[
+				"draprocessor",
+				"DrawIndoorAreasProcessor"
+			],
+			[
+				"display_floor_coverages_and_graph",
+				"display_floor_coverages_and_graph"
+			],
+			[
+				"compute_simplified_graph",
+				"compute_simplified_graph"
+			],
+			[
+				"floor",
+				"FloorCoverage"
+			],
+			[
+				"vect",
+				"VectorMap"
+			],
+			[
+				"dosi",
+				"do_simplify_graph"
+			],
+			[
+				"dosim",
+				"do_simplify_graph"
+			],
+			[
+				"DeploymentGraphDeleter",
+				"DeploymentGraphDeleter"
+			],
+			[
+				"linem",
+				"linemerge"
+			],
+			[
+				"dosimp",
+				"do_simplify_graph"
+			],
+			[
+				"do_si",
+				"do_simplify_graph"
+			],
+			[
+				"updaflo",
+				"update_floor"
+			],
+			[
+				"update_fl",
+				"update_floor"
+			],
+			[
+				"update_floor",
+				"update_floor"
+			],
+			[
+				"GraphsController",
+				"GraphsController"
+			],
+			[
+				"draw_graph",
+				"draw_graph"
+			],
+			[
+				"GraphCoverageProcessor",
+				"GraphCoverageProcessor"
+			],
+			[
+				"graph_coverage",
+				"graph_coverage_pie"
+			],
+			[
+				"grap",
+				"GraphCoverage"
+			]
+		],
+		"width": 605.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 363.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

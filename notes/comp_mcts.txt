@@ -1,0 +1,203 @@
+PolicyRandom
+Depth 2
+roller  0 55 6 158
+roller  1 69 6 208
+roller  2 64 6 186
+roller  3 84 7 276
+roller  4 54 6 156
+roller  5 48 6 136
+roller  6 54 6 156
+roller  7 70 6 210
+roller  8 57 6 164
+roller  9 98 7 322
+2, 10 elapsed 6.24s
+20.0 197.2 7 6.2 elapsed 6.24 seconds
+Depth 5
+roller  0 54 6 152
+roller  1 93 7 304
+roller  2 35 5 82
+roller  3 31 5 72
+roller  4 48 6 136
+roller  5 74 6 224
+roller  6 66 6 196
+roller  7 55 6 158
+roller  8 35 5 86
+roller  9 55 6 158
+1, 10 elapsed 12.06s
+10.0 156.8 7 5.8 elapsed 12.06 seconds
+Depth 10
+roller  0 90 7 292
+roller  1 68 6 206
+roller  2 66 6 200
+roller  3 62 6 186
+roller  4 57 6 164
+roller  5 39 5 96
+roller  6 52 6 150
+roller  7 57 6 164
+roller  8 48 6 136
+roller  9 52 6 150
+1, 10 elapsed 25.07s
+10.0 174.4 7 6.0 elapsed 25.07 seconds
+Depth 20
+roller  0 98 7 322
+roller  1 59 6 172
+roller  2 101 7 334
+roller  3 83 7 270
+roller  4 61 6 178
+roller  5 57 6 164
+roller  6 32 5 74
+roller  7 54 6 152
+roller  8 82 7 268
+roller  9 62 6 180
+4, 10 elapsed 57.09s
+40.0 211.4 7 6.3 elapsed 57.09 seconds
+Depth 50
+roller  0 90 7 292
+roller  1 80 7 262
+roller  2 92 7 306
+roller  3 54 6 156
+roller  4 55 6 158
+roller  5 80 7 262
+roller  6 96 7 312
+roller  7 104 7 342
+roller  8 62 6 186
+roller  9 110 7 374
+7, 10 elapsed 151.91s
+70.0 265.0 7 6.7 elapsed 151.91 seconds
+Depth 100
+roller  0 101 7 334
+roller  1 51 6 144
+roller  2 52 6 150
+roller  3 86 7 282
+roller  4 168 8 596
+roller  5 104 7 342
+roller  6 86 7 282
+roller  7 59 6 172
+roller  8 66 6 200
+roller  9 86 7 282
+6, 10 elapsed 287.63s
+60.0 278.4 8 6.7 elapsed 287.63 seconds
+[Finished in 540.3s]
+
+
+
+PolicyMaximizeSameNeighbors
+Depth 2
+roller  0 32 5 74
+roller  1 112 7 372
+roller  2 94 7 312
+roller  3 94 7 312
+roller  4 61 6 182
+roller  5 92 6 292
+roller  6 104 7 342
+roller  7 69 6 208
+roller  8 57 6 164
+roller  9 69 6 208
+4, 10 elapsed 15.86s
+40.0 246.6 7 6.3 elapsed 15.86 seconds
+Depth 5
+roller  0 104 7 342
+roller  1 89 7 290
+roller  2 86 7 282
+roller  3 148 8 530
+roller  4 101 7 334
+roller  5 94 7 306
+roller  6 89 7 290
+roller  7 94 7 312
+roller  8 151 8 538
+roller  9 113 7 382
+10, 10 elapsed 42.22s
+100.0 360.6 8 7.2 elapsed 42.22 seconds
+Depth 10
+roller  0 165 8 588
+roller  1 101 7 334
+roller  2 98 7 326
+roller  3 111 7 376
+roller  4 98 7 322
+roller  5 148 8 530
+roller  6 97 7 320
+roller  7 153 8 544
+roller  8 102 7 336
+roller  9 101 7 334
+10, 10 elapsed 74.06s
+100.0 401.0 8 7.3 elapsed 74.06 seconds
+Depth 20
+roller  0 153 8 544
+roller  1 150 8 536
+roller  2 84 7 276
+roller  3 156 8 560
+roller  4 86 7 282
+roller  5 89 7 290
+roller  6 165 8 588
+roller  7 86 7 282
+roller  8 165 8 588
+roller  9 87 7 284
+10, 10 elapsed 140.53s
+100.0 423.0 8 7.5 elapsed 140.53 seconds
+Depth 50
+roller  0 151 8 538
+roller  1 83 7 274
+roller  2 148 8 530
+roller  3 89 7 290
+roller  4 98 7 326
+roller  5 144 8 516
+roller  6 89 7 290
+roller  7 90 7 296
+roller  8 156 8 560
+roller  9 95 7 314
+10, 10 elapsed 282.02s
+100.0 393.4 8 7.4 elapsed 282.02 seconds
+Depth 100
+roller  0 148 8 530
+roller  1 163 8 582
+roller  2 159 8 568
+roller  3 166 8 590
+roller  4 148 8 530
+roller  5 148 8 530
+roller  6 168 8 596
+roller  7 105 7 348
+roller  8 86 7 282
+roller  9 90 7 292
+10, 10 elapsed 579.88s
+100.0 484.8 8 7.7 elapsed 579.88 seconds
+[Finished in 1136.0s]
+Depth 2
+roller  0 64 6 194
+roller  1 108 7 356
+roller  2 62 6 186
+roller  3 101 7 334
+roller  4 51 6 144
+roller  5 84 7 276
+roller  6 66 6 200
+roller  7 57 6 164
+roller  8 94 7 312
+roller  9 55 6 158
+4, 10 elapsed 16.65s
+40.0 232.4 7 6.4 elapsed 16.65 seconds
+Depth 3
+roller  0 55 6 158
+roller  1 44 5 114
+roller  2 79 7 260
+roller  3 92 7 302
+roller  4 48 6 136
+roller  5 50 6 142
+roller  6 77 6 238
+roller  7 105 7 348
+roller  8 66 6 200
+roller  9 101 7 334
+4, 10 elapsed 21.39s
+40.0 223.2 7 6.3 elapsed 21.39 seconds
+Depth 4
+roller  0 94 7 312
+roller  1 99 7 328
+roller  2 158 8 560
+roller  3 86 7 282
+roller  4 172 8 610
+roller  5 150 8 536
+roller  6 93 7 304
+roller  7 94 7 312
+roller  8 165 8 588
+roller  9 150 8 536
+10, 10 elapsed 39.68s
+100.0 436.8 8 7.5 elapsed 39.68 seconds
+[Finished in 78.1s]

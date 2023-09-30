@@ -1,0 +1,58 @@
+Idea :
+- test several heuristics with mcts with different depth:
+    - neighbors
+    - max value
+    - max on a corner
+    - maximize number of empty cases
+
+
+TODO:
+- add symertry ? rotation and reflection
+    . augments data by building symetrical situations
+    . when searching for an action, make symetrical operations to see if the state is already present.
+- DL and XG on neighbor algo => size min for the model
+- get algo of decision tree to see how to find the minimum amount of data to define the tree
+- gaussian process => select the data to reduce the error of the model ?
+- how to make mu 3x3 find the neighbor algo
+- similarities between auto encoder and internal representation of the game. Could it play ?
+
+notes:
+- algo neighbor efficient with mcts nb=4 for 3x3 => 100% success
+- similarities between search tree and decision tree
+
+the idea is that the model should be able to find the neighbor algo by himself.
+
+what is my objective ? find the heuristic when playing a game and restitute it.
+The IA plays and can give some advice to win the game
+This means that the the IA must somehow understand the rules of the game.
+
+the size of the exploration tree can be enormous.
+
+9**9 = 387420489
+9! = 362880
+
+
+
+- xgboost : 2x2 learn from Q
+- find min data set with same tree
+- learn more from trees
+- symetrie :
+    - find the three other symetrico fa run
+    - transform state to with symetrical rule to store less : less generic ?
+
+- transfor one
+- model q learning
+- mcts ?
+- q learning to xgboost
+- qdeep under class
+- object model-policy-player
+model : inputs, targets, learn, predict, callback
+policy : transform, env, run to learn
+player : run
+- deep with 2048
+- refactor : model - policy - env
+- test with deeper net 4x4X4x4 for instance
+- better running evaluation
+
+model > learn > cb > coverage(inupts, targets, model) | wins(env, model)
+

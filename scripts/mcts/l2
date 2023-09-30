@@ -1,0 +1,10 @@
+PolicyMaximizeRewardOnCorner
+  Depth 6
+40.0 226.6 7 6.4 elapsed 18.65 seconds
+  wins: 40.0%, reward: 226.6, max_states max: 7, max_states max: 6.4, elapsed 18.65 seconds
+  Depth 10
+50.0 251.0 7 6.5 elapsed 26.78 seconds
+  wins: 50.0%, reward: 251.0, max_states max: 7, max_states max: 6.5, elapsed 26.78 seconds
+  Depth 20
+90.0 297.8 7 6.9 elapsed 53.27 seconds
+  wins: 90.0%, reward: 297.8, max_states max: 7, max_states max: 6.9, elapsed 53.27 seconds

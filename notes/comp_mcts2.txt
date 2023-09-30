@@ -1,0 +1,241 @@
+PolicyRandom                  Depth 4 wins: 20.0%, reward: 180.0, max_states max: 7, max_states max: 6.0, elapsed 14.89 seconds
+PolicyMaximizeReward          Depth 5 wins: 50.0%, reward: 221.6, max_states max: 7, max_states max: 6.4, elapsed 14.49 seconds
+PolicyMinimizeNbTile          Depth 4 wins: 50.0%, reward: 251.2, max_states max: 7, max_states max: 6.4, elapsed 12.12 seconds
+PolicyMaximizeRewardOnCorner  Depth 5 wins: 50.0%, reward: 240.8, max_states max: 7, max_states max: 6.5, elapsed 15.95 seconds
+PolicyMaximizeSameNeighbors   Depth 4 wins: 100.0%, reward: 407.0, max_states max: 8, max_states max: 7.4, elapsed 37.24 seconds
+
+PolicyMaximizeRewardOnCorner  Depth 20 wins: 90.0%, reward: 297.8, max_states max: 7, max_states max: 6.9, elapsed 53.27 seconds
+PolicyRandom                  Depth 20 wins: 20.0%, reward: 198.0, max_states max: 7, max_states max: 6.2, elapsed 58.67 seconds
+
+
+PolicyRandom
+  Depth 2
+0 roller length: 24 max_state: 4 sum_reward:44
+1 roller length: 72 max_state: 6 sum_reward:216
+2 roller length: 56 max_state: 6 sum_reward:162
+3 roller length: 39 max_state: 5 sum_reward:96
+4 roller length: 26 max_state: 4 sum_reward:50
+5 roller length: 50 max_state: 6 sum_reward:142
+6 roller length: 93 max_state: 7 sum_reward:304
+7 roller length: 68 max_state: 6 sum_reward:206
+8 roller length: 64 max_state: 6 sum_reward:186
+9 roller length: 108 max_state: 7 sum_reward:356
+2, 10 elapsed 6.66s
+20.0 176.2 7 5.7 elapsed 6.66 seconds
+  wins: 20.0%, reward: 176.2, max_states max: 7, max_states max: 5.7, elapsed 6.66 seconds
+  Depth 3
+0 roller length: 104 max_state: 7 sum_reward:342
+1 roller length: 69 max_state: 6 sum_reward:208
+2 roller length: 61 max_state: 6 sum_reward:178
+3 roller length: 58 max_state: 6 sum_reward:166
+4 roller length: 39 max_state: 5 sum_reward:96
+5 roller length: 35 max_state: 5 sum_reward:82
+6 roller length: 24 max_state: 4 sum_reward:44
+7 roller length: 35 max_state: 5 sum_reward:82
+8 roller length: 96 max_state: 7 sum_reward:312
+9 roller length: 58 max_state: 6 sum_reward:166
+2, 10 elapsed 13.10s
+20.0 167.6 7 5.7 elapsed 13.10 seconds
+  wins: 20.0%, reward: 167.6, max_states max: 7, max_states max: 5.7, elapsed 13.10 seconds
+  Depth 4
+0 roller length: 58 max_state: 6 sum_reward:166
+1 roller length: 50 max_state: 6 sum_reward:142
+2 roller length: 29 max_state: 5 sum_reward:66
+3 roller length: 96 max_state: 7 sum_reward:312
+4 roller length: 65 max_state: 6 sum_reward:194
+5 roller length: 51 max_state: 6 sum_reward:144
+6 roller length: 48 max_state: 6 sum_reward:136
+7 roller length: 36 max_state: 5 sum_reward:88
+8 roller length: 104 max_state: 7 sum_reward:342
+9 roller length: 70 max_state: 6 sum_reward:210
+2, 10 elapsed 14.89s
+20.0 180.0 7 6.0 elapsed 14.89 seconds
+  wins: 20.0%, reward: 180.0, max_states max: 7, max_states max: 6.0, elapsed 14.89 seconds
+  Depth 5
+0 roller length: 54 max_state: 6 sum_reward:156
+1 roller length: 45 max_state: 5 sum_reward:116
+2 roller length: 57 max_state: 6 sum_reward:164
+3 roller length: 39 max_state: 5 sum_reward:96
+4 roller length: 58 max_state: 6 sum_reward:166
+5 roller length: 38 max_state: 5 sum_reward:94
+6 roller length: 39 max_state: 5 sum_reward:96
+7 roller length: 55 max_state: 6 sum_reward:158
+8 roller length: 87 max_state: 7 sum_reward:284
+9 roller length: 31 max_state: 5 sum_reward:72
+1, 10 elapsed 13.57s
+10.0 140.2 7 5.6 elapsed 13.57 seconds
+  wins: 10.0%, reward: 140.2, max_states max: 7, max_states max: 5.6, elapsed 13.57 seconds
+
+PolicyMaximizeReward
+  Depth 2
+0 roller length: 38 max_state: 5 sum_reward:94
+1 roller length: 54 max_state: 6 sum_reward:156
+2 roller length: 66 max_state: 6 sum_reward:196
+3 roller length: 62 max_state: 6 sum_reward:180
+4 roller length: 59 max_state: 6 sum_reward:172
+5 roller length: 69 max_state: 6 sum_reward:208
+6 roller length: 59 max_state: 6 sum_reward:172
+7 roller length: 57 max_state: 6 sum_reward:164
+8 roller length: 57 max_state: 6 sum_reward:164
+9 roller length: 58 max_state: 6 sum_reward:166
+0, 10 elapsed 7.02s
+0.0 167.2 6 5.9 elapsed 7.02 seconds
+  wins: 0.0%, reward: 167.2, max_states max: 6, max_states max: 5.9, elapsed 7.02 seconds
+  Depth 3
+0 roller length: 96 max_state: 7 sum_reward:312
+1 roller length: 51 max_state: 6 sum_reward:148
+2 roller length: 40 max_state: 5 sum_reward:100
+3 roller length: 71 max_state: 6 sum_reward:214
+4 roller length: 62 max_state: 6 sum_reward:186
+5 roller length: 39 max_state: 5 sum_reward:96
+6 roller length: 93 max_state: 7 sum_reward:304
+7 roller length: 39 max_state: 5 sum_reward:96
+8 roller length: 58 max_state: 6 sum_reward:170
+9 roller length: 33 max_state: 5 sum_reward:78
+2, 10 elapsed 9.16s
+20.0 170.4 7 5.8 elapsed 9.16 seconds
+  wins: 20.0%, reward: 170.4, max_states max: 7, max_states max: 5.8, elapsed 9.16 seconds
+  Depth 4
+0 roller length: 60 max_state: 6 sum_reward:176
+1 roller length: 86 max_state: 7 sum_reward:282
+2 roller length: 54 max_state: 6 sum_reward:156
+3 roller length: 50 max_state: 6 sum_reward:142
+4 roller length: 60 max_state: 6 sum_reward:176
+5 roller length: 89 max_state: 7 sum_reward:290
+6 roller length: 58 max_state: 6 sum_reward:170
+7 roller length: 84 max_state: 7 sum_reward:276
+8 roller length: 101 max_state: 7 sum_reward:334
+9 roller length: 69 max_state: 6 sum_reward:208
+4, 10 elapsed 13.91s
+40.0 221.0 7 6.4 elapsed 13.91 seconds
+  wins: 40.0%, reward: 221.0, max_states max: 7, max_states max: 6.4, elapsed 13.91 seconds
+  Depth 5
+0 roller length: 83 max_state: 7 sum_reward:270
+1 roller length: 89 max_state: 7 sum_reward:290
+2 roller length: 66 max_state: 6 sum_reward:196
+3 roller length: 58 max_state: 6 sum_reward:170
+4 roller length: 49 max_state: 6 sum_reward:140
+5 roller length: 80 max_state: 7 sum_reward:262
+6 roller length: 55 max_state: 6 sum_reward:162
+7 roller length: 42 max_state: 5 sum_reward:108
+8 roller length: 87 max_state: 7 sum_reward:284
+9 roller length: 101 max_state: 7 sum_reward:334
+5, 10 elapsed 14.49s
+50.0 221.6 7 6.4 elapsed 14.49 seconds
+  wins: 50.0%, reward: 221.6, max_states max: 7, max_states max: 6.4, elapsed 14.49 seconds
+
+PolicyMinimizeNbTile
+  Depth 2
+0 roller length: 62 max_state: 6 sum_reward:186
+1 roller length: 64 max_state: 6 sum_reward:186
+2 roller length: 38 max_state: 5 sum_reward:94
+3 roller length: 50 max_state: 6 sum_reward:142
+4 roller length: 72 max_state: 6 sum_reward:216
+5 roller length: 50 max_state: 5 sum_reward:138
+6 roller length: 69 max_state: 6 sum_reward:208
+7 roller length: 26 max_state: 4 sum_reward:50
+8 roller length: 76 max_state: 6 sum_reward:230
+9 roller length: 69 max_state: 6 sum_reward:208
+0, 10 elapsed 6.15s
+0.0 165.8 6 5.6 elapsed 6.15 seconds
+  wins: 0.0%, reward: 165.8, max_states max: 6, max_states max: 5.6, elapsed 6.15 seconds
+  Depth 3
+0 roller length: 93 max_state: 7 sum_reward:304
+1 roller length: 54 max_state: 5 sum_reward:148
+2 roller length: 40 max_state: 5 sum_reward:100
+3 roller length: 59 max_state: 6 sum_reward:172
+4 roller length: 52 max_state: 6 sum_reward:150
+5 roller length: 52 max_state: 6 sum_reward:150
+6 roller length: 109 max_state: 7 sum_reward:364
+7 roller length: 68 max_state: 6 sum_reward:206
+8 roller length: 35 max_state: 5 sum_reward:82
+9 roller length: 36 max_state: 5 sum_reward:88
+2, 10 elapsed 8.25s
+20.0 176.4 7 5.8 elapsed 8.25 seconds
+  wins: 20.0%, reward: 176.4, max_states max: 7, max_states max: 5.8, elapsed 8.25 seconds
+  Depth 4
+0 roller length: 117 max_state: 7 sum_reward:396
+1 roller length: 109 max_state: 7 sum_reward:364
+2 roller length: 82 max_state: 7 sum_reward:268
+3 roller length: 56 max_state: 6 sum_reward:164
+4 roller length: 121 max_state: 7 sum_reward:410
+5 roller length: 39 max_state: 5 sum_reward:96
+6 roller length: 101 max_state: 7 sum_reward:334
+7 roller length: 55 max_state: 6 sum_reward:158
+8 roller length: 55 max_state: 6 sum_reward:158
+9 roller length: 57 max_state: 6 sum_reward:164
+5, 10 elapsed 12.12s
+50.0 251.2 7 6.4 elapsed 12.12 seconds
+  wins: 50.0%, reward: 251.2, max_states max: 7, max_states max: 6.4, elapsed 12.12 seconds
+  Depth 5
+0 roller length: 58 max_state: 6 sum_reward:170
+1 roller length: 89 max_state: 7 sum_reward:290
+2 roller length: 101 max_state: 7 sum_reward:334
+3 roller length: 54 max_state: 6 sum_reward:156
+4 roller length: 60 max_state: 6 sum_reward:172
+5 roller length: 54 max_state: 6 sum_reward:156
+6 roller length: 47 max_state: 6 sum_reward:134
+7 roller length: 48 max_state: 6 sum_reward:136
+8 roller length: 62 max_state: 6 sum_reward:186
+9 roller length: 98 max_state: 7 sum_reward:326
+3, 10 elapsed 12.01s
+30.0 206.0 7 6.3 elapsed 12.01 seconds
+  wins: 30.0%, reward: 206.0, max_states max: 7, max_states max: 6.3, elapsed 12.01 seconds
+
+PolicyMaximizeSameNeighbors
+  Depth 2
+0 roller length: 90 max_state: 7 sum_reward:296
+1 roller length: 48 max_state: 5 sum_reward:128
+2 roller length: 101 max_state: 7 sum_reward:334
+3 roller length: 112 max_state: 7 sum_reward:372
+4 roller length: 94 max_state: 7 sum_reward:312
+5 roller length: 97 max_state: 7 sum_reward:320
+6 roller length: 42 max_state: 5 sum_reward:108
+7 roller length: 69 max_state: 6 sum_reward:208
+8 roller length: 84 max_state: 6 sum_reward:260
+9 roller length: 66 max_state: 6 sum_reward:200
+5, 10 elapsed 20.72s
+50.0 253.8 7 6.3 elapsed 20.72 seconds
+  wins: 50.0%, reward: 253.8, max_states max: 7, max_states max: 6.3, elapsed 20.72 seconds
+  Depth 3
+0 roller length: 68 max_state: 6 sum_reward:206
+1 roller length: 69 max_state: 6 sum_reward:208
+2 roller length: 54 max_state: 6 sum_reward:156
+3 roller length: 101 max_state: 7 sum_reward:334
+4 roller length: 153 max_state: 8 sum_reward:544
+5 roller length: 65 max_state: 6 sum_reward:194
+6 roller length: 43 max_state: 5 sum_reward:110
+7 roller length: 90 max_state: 7 sum_reward:292
+8 roller length: 89 max_state: 7 sum_reward:290
+9 roller length: 104 max_state: 7 sum_reward:342
+5, 10 elapsed 25.88s
+50.0 267.6 8 6.5 elapsed 25.88 seconds
+  wins: 50.0%, reward: 267.6, max_states max: 8, max_states max: 6.5, elapsed 25.88 seconds
+  Depth 4
+0 roller length: 184 max_state: 8 sum_reward:658
+1 roller length: 89 max_state: 7 sum_reward:290
+2 roller length: 89 max_state: 7 sum_reward:290
+3 roller length: 84 max_state: 7 sum_reward:276
+4 roller length: 146 max_state: 8 sum_reward:524
+5 roller length: 88 max_state: 7 sum_reward:290
+6 roller length: 153 max_state: 8 sum_reward:544
+7 roller length: 105 max_state: 7 sum_reward:348
+8 roller length: 160 max_state: 8 sum_reward:566
+9 roller length: 87 max_state: 7 sum_reward:284
+10, 10 elapsed 37.24s
+100.0 407.0 8 7.4 elapsed 37.24 seconds
+  wins: 100.0%, reward: 407.0, max_states max: 8, max_states max: 7.4, elapsed 37.24 seconds
+  Depth 5
+0 roller length: 90 max_state: 7 sum_reward:296
+1 roller length: 89 max_state: 7 sum_reward:290
+2 roller length: 155 max_state: 8 sum_reward:552
+3 roller length: 88 max_state: 7 sum_reward:288
+4 roller length: 86 max_state: 7 sum_reward:282
+5 roller length: 150 max_state: 8 sum_reward:536
+6 roller length: 86 max_state: 7 sum_reward:282
+7 roller length: 104 max_state: 7 sum_reward:342
+8 roller length: 87 max_state: 7 sum_reward:284
+9 roller length: 163 max_state: 8 sum_reward:582
+10, 10 elapsed 40.67s
+100.0 373.4 8 7.3 elapsed 40.67 seconds
+  wins: 100.0%, reward: 373.4, max_states max: 8, max_states max: 7.3, elapsed 40.67 seconds

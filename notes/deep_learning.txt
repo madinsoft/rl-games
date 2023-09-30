@@ -1,3 +1,9 @@
+Reflexions:
+- objectifs:
+    find a wining strategy from playing game rules.
+    specific rules => find a wining strategies
+    a pb described by a certain graph topolgy. How to find good shortcuts to reach an objective
+
 Idea :
 - test several heuristics with mcts with different depth:
     - neighbors

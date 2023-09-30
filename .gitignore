@@ -1,0 +1,13 @@
+.project
+__pycache__
+.idea
+data_models
+*.pdf
+*.png
+*.vcs-cache
+data/
+*.jpeg
+*.tgz
+data2/
+.env
+*.code-workspace

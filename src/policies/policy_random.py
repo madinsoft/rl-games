@@ -1,18 +1,10 @@
-from policies.abstract_policy import AbstractPolicy
-
-
 # ________________________________________________________________
-class PolicyRandom(AbstractPolicy):
+class PolicyRandom:
 
     def __init__(self, env):
-        self.env = env
+        self._env = env
 
     def action(self, state):
         """ action to do from a specific policy """
-        return self.env.sample()
+        return self._env.sample_legal_action(state)
 
-    def save(self, path):
-        pass
-
-    def load(self, path):
-        pass

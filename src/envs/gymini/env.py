@@ -21,7 +21,7 @@ class BaseMiniEnv(gym.Env):
         self.np_random, seed = seeding.np_random(seed)
         return [seed]
 
-    def step(self, action: int):
+    def action(self, action: int):
         return self.explore(action, self.state)
 
     def explore(self, action: int, state=None):
@@ -69,7 +69,7 @@ class BaseMiniEnv(gym.Env):
                 return True
         return False
 
-    def reset(self):
+    def init(self):
         self.state = [randint(1, 4) for i in range(4)]
         return self.state
 

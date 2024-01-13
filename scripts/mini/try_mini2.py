@@ -1,6 +1,6 @@
 import site
 import gym
-site.addsitedir('/home/patrick/projects/IA/my-2048/src')
+site.addsitedir('/home/patrick/pCloudDrive/docs/ML/rl-games/src')
 import gymini
 from players.player_mini import PlayerMini
 from policies.policy_random import PolicyRandom
